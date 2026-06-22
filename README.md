@@ -39,6 +39,24 @@ smart-waste-management/
     └── js/
         └── dashboard.js        # Fetches API data, renders cards/map/charts, auto-refresh
 ```
+---
+
+## 📸 Output Screenshots
+
+### Landing Page
+![Landing Page](Outputs_Screen_Shots/Proactive_Alerts.png)
+
+### Bin Fleet Status
+![Bin_Fleet_Status](Outputs_Screen_Shots/Bin_Fleet_Status.png)
+
+### Collection Route Optimization
+![Collection_Route_Optimization](Outputs_Screen_Shots/Collection_Route_Optimization.png)
+
+### Data Driven Waste Insights Charts
+![Data_Driven_Waste_Insights_Charts](Outputs_Screen_Shots/Data_Driven_Waste_Insights_Charts.png)
+
+### Fill Level Forecast
+![Fill_Level_Forecast](Outputs_Screen_Shots/Fill_Level_Forecast.png)
 
 ---
 
